@@ -49,9 +49,6 @@ Before using this repository, ensure you have the following installed:
 
 ✔️ Cloud provider CLI (e.g., AWS CLI, Azure CLI, GCP CLI)
 
-✔️ GitHub Actions enabled for automation
-
-🚀 Setup Instructions
 1️⃣ Clone the Repository
 
 git clone https://github.com/vib3231/GitOpsAction.git
