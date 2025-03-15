@@ -1,6 +1,6 @@
 🌟 Overview
 
-This repository is used for managing infrastructure using Terraform and GitOps workflows. It enables automated provisioning and deployment of cloud resources by leveraging GitHub Actions.
+This repository is used for automated server provisioning by deploying EC2 instances on AWS using Terraform. It ensures seamless infrastructure management through Infrastructure as Code (IaC) and enables efficient provisioning of cloud resources.
 
 🔹 Terraform for Infrastructure as Code (IaC)
 
